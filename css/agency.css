@@ -7,6 +7,9 @@
 .fonte-branco{
   color: white;
 }
+.texto-gray{
+  color: #333237;
+}
 .video-responsive iframe{
     left:0;
     top:0;
@@ -75,8 +78,7 @@ h6 {
 }
 .btn-primary {
   color: white;
-  background-color: #fed136;
-  border-color: #fed136;
+
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -87,8 +89,7 @@ h6 {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
   color: white;
-  background-color: #fec503;
-  border-color: #f6bf01;
+
 }
 .btn-primary:active,
 .btn-primary.active,
