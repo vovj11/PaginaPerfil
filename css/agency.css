@@ -177,7 +177,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-custom .navbar-brand:focus,
 .navbar-custom .navbar-brand:active,
 .navbar-custom .navbar-brand.active {
-  color: #fec503;
+  color: #ca6f50;
 }
 .navbar-custom .navbar-collapse {
   border-color: rgba(255, 255, 255, 0.02);
@@ -257,6 +257,7 @@ header {
   -o-background-size: cover;
   text-align: center;
   color: white;
+  background-attachment: fixed;
 }
 header .intro-text {
   padding-top: 100px;
